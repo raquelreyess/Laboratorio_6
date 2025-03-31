@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15;
+}
+
+nav ul li a {
+
+    color: white;
+    
+}
